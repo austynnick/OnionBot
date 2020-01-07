@@ -1,0 +1,11 @@
+c:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.exe
+C:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.deps.json
+C:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.runtimeconfig.json
+C:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.runtimeconfig.dev.json
+c:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.dll
+c:\Users\Austyn\OnionBot\bin\Debug\netcoreapp3.1\OnionBot.pdb
+c:\Users\Austyn\OnionBot\obj\Debug\netcoreapp3.1\OnionBot.csprojAssemblyReference.cache
+c:\Users\Austyn\OnionBot\obj\Debug\netcoreapp3.1\OnionBot.AssemblyInfoInputs.cache
+c:\Users\Austyn\OnionBot\obj\Debug\netcoreapp3.1\OnionBot.AssemblyInfo.cs
+c:\Users\Austyn\OnionBot\obj\Debug\netcoreapp3.1\OnionBot.dll
+c:\Users\Austyn\OnionBot\obj\Debug\netcoreapp3.1\OnionBot.pdb
